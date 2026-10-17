@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T12:14:47.602Z",
+  "builtAt": "2026-10-17T10:55:07.182Z",
   "host": [
     "clip-id.js",
     "clip-registry.js",
@@ -9,6 +9,7 @@
     "index.js",
     "library-ops.js",
     "media-server.js",
+    "mp4-boxes.js",
     "random-controller.js",
     "route-guard.js",
     "schedule.js",
